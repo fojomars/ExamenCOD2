@@ -11,6 +11,6 @@ package excod1av;
  */
 public class ClaseExp {
     public void calcularResultado(){
-        
+        int z;
     }
 }
