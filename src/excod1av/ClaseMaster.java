@@ -10,5 +10,5 @@ package excod1av;
  * @author fojomars
  */
 public class ClaseMaster {
-    
+    int y;
 }
